@@ -1,6 +1,6 @@
 creature_random_hag
 
-!YES_RANDOM_NIGHTCREATURE!OBJECT:CREATURE]
+YES_RANDOM_NIGHTCREATURE!OBJECT:CREATURE]
 
 [CREATURE:HAG_RANDOM_001]
 	[DESCRIPTION:A big humanoid monster. It is covered in crimson scales and crimson hair. This evil creature has deer-like antlers with strange properties and a shell into which it can retract. Its attacks are very powerful. It is unaging. It is associated with festivals, death, and the night. Now you will know why you fear the night.]
@@ -5152,25 +5152,9 @@ creature_random_hag
 	[PERSONALITY:ALTRUISM:0:0:0]
 	[PERSONALITY:CRUELTY:100:100:100]
 
-
-
-ONALITY:DISDAIN_ADVICE:100:100:100]
-	[PERSONALITY:CHEER_PROPENSITY:0:0:0]
-	[PERSONALITY:TRUST:0:0:0]
-	[PERSONALITY:ALTRUISM:0:0:0]
-	[PERSONALITY:CRUELTY:100:100:100]
-
-
-
-RUELTY:100:100:100]
-
-
-
-ONALITY:DISDAIN_ADVICE:100:100:100]
-	[PERSONALITY:CHEER_PROPENSITY:0:0:0]
-	[PERSONALITY:TRUST:0:0:0]
-	[PERSONALITY:ALTRUISM:0:0:0]
-	[PERSONALITY:CRUELTY:100:100:100]
-
-
-
+#### EOF - THIS LINE IS 80 CHARACTERS LONG #####50########60########70########80
+5
+4
+3
+2
+1

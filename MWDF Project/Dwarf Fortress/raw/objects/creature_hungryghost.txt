@@ -1,6 +1,6 @@
 creature_hungryghost
 
-!YES_MMM_GHOST!OBJECT:CREATURE]
+!NO_MMM_GHOST!OBJECT:CREATURE]
 
 [CREATURE:HUNGRY_GHOST]
 	[DESCRIPTION:A shrunken, emanciated creature without a mouth.  Unable to satisfy its gnawing hunger, it will possess other creatures in an effort to satiate its needs.]
@@ -70,10 +70,9 @@ creature_hungryghost
 		[TL_COLOR_MODIFIER:GRAY:1]
 			[TLCM_NOUN:skin:SINGULAR]
 
-
-
-
-
-
-
-
+#### EOF - THIS LINE IS 80 CHARACTERS LONG #####50########60########70########80
+5
+4
+3
+2
+1

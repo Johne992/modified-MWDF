@@ -2,7 +2,7 @@ item_weapon
 
 armoury
 
-!YES_STAL_ARMORY_MELEE!OBJECT:ITEM]
+!NO_STAL_ARMORY_MELEE!OBJECT:ITEM]
 
 ***** TOOLS *****
 
@@ -569,4 +569,9 @@ armoury
 [ATTACK:EDGE:60:6000:stab:stabs:spike:1250]
 	[ATTACK_PREPARE_AND_RECOVER:2:3]
 
-
+#### EOF - THIS LINE IS 80 CHARACTERS LONG #####50########60########70########80
+5
+4
+3
+2
+1

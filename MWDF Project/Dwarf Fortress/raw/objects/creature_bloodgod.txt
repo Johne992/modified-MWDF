@@ -3,7 +3,7 @@ creature_bloodgod
 YES_MMM_MYTH[OBJECT:CREATURE]
 
 [CREATURE:CREATURE_BLOODGOD]
-	[OUTSIDER_CONTROLLABLE]
+	!NO_MORE_ADV_OPTIONS!OUTSIDER_CONTROLLABLE]
 	[DESCRIPTION:The avatar of a deity fond of blood and slaughter.]
 	[NAME:Avatar of the Blood God:Avatars of the Blood God:bloody]
 	[CASTE_NAME:Avatar of the Blood God:Avatars of the Blood God:bloody]
@@ -444,10 +444,9 @@ YES_MMM_MYTH[OBJECT:CREATURE]
 			[CE_BODY_TRANSFORMATION:START:33600]
 				[CE:CREATURE:CREATURE_BLOODGOD:DEFAULT]
 
-
-
-
-
-
-
-
+#### EOF - THIS LINE IS 80 CHARACTERS LONG #####50########60########70########80
+5
+4
+3
+2
+1

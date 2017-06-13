@@ -417,8 +417,8 @@ YES_ZM5_MEGABEASTS[OBJECT:CREATURE]
 
 [CREATURE:ZM5_NIGHTMARE]
 	[DESCRIPTION:An eight-legged, horned steed with burning red eyes found running along evil plains and forests. Despite it's intimdating appearance, it doesn't behave differently from a normal horse.]
-	[NAME:nightmare:nightmares:nightmare]
-	[CASTE_NAME:nightmare:nightmares:nightmare]
+	[NAME:sleipnir:sleipnirs:sleipnir]
+	[CASTE_NAME:sleipnir:sleipnirs:sleipnir]
 	[CREATURE_TILE:'N'][COLOR:0:0:1]
         [GLOWTILE:'"'][GLOWCOLOR:6:0:1]
 	[PETVALUE:900]
@@ -434,7 +434,7 @@ YES_ZM5_MEGABEASTS[OBJECT:CREATURE]
         [EVIL][NOT_LIVING]
 	[COMMON_DOMESTIC][PACK_ANIMAL][WAGON_PULLER]
 	[TRADE_CAPACITY:2000]
-	[BENIGN][PET]
+	[BENIGN][PET_EXOTIC]REDUCE_PET_MOD
 	[STANDARD_GRAZER]
 	[VISION_ARC:50:310]
 	[BODY:QUADRUPED_NECK_8LEGS:TAIL:2EYES:2EARS:NOSE:2LUNGS:HEART:GUTS:ORGANS:THROAT:NECK:SPINE:BRAIN:SKULL:MOUTH:TONGUE:GENERIC_TEETH:RIBCAGE:2HEAD_HORN]
@@ -1110,4 +1110,11 @@ YES_ZM5_MEGABEASTS[OBJECT:CREATURE]
 	[TISSUE_LAYER:BY_CATEGORY:HILT:PLATINUM]
         [TISSUE_LAYER:BY_CATEGORY:SOUL_GEM:SOUL_GEM]
         [SELECT_CASTE:ALL]
-            [ITEMCORPSE_QUALITY:5]]
+            [ITEMCORPSE_QUALITY:5]
+
+#### EOF - THIS LINE IS 80 CHARACTERS LONG #####50########60########70########80
+5
+4
+3
+2
+1

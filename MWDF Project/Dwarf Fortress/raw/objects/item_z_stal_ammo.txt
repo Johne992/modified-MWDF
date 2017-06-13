@@ -2,7 +2,7 @@ item_ammo
 
 armoury
 
-!YES_STAL_ARMORY_RANGED!OBJECT:ITEM]
+!NO_STAL_ARMORY_RANGED!OBJECT:ITEM]
 
 ** BOLTS **
 
@@ -86,3 +86,10 @@ armoury
 
 
 ** OTHER **
+
+#### EOF - THIS LINE IS 80 CHARACTERS LONG #####50########60########70########80
+5
+4
+3
+2
+1
